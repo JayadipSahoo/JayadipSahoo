@@ -6,39 +6,28 @@
        <td align="center" width="140" height="112.43">
             <img src="./react-original.svg" width="48" height="48" alt="React.js" />
             </a>
-        <   br>React.js
+        <br>React.js
       </td>
         <td align="center"  width="140" height="112.43">
             <img src="./react-original.svg" width="48" height="48" alt="React Native" />
             </a>
             <br>React Native
       </td>
-
-
-   <td align="center"  width="140" height="112.43">
-        
-          <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        </a>
-        <br>JavaScript
+        <td align="center"  width="140" height="112.43">
+            <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
+            </a>
+            <br>JavaScript
       </td>
-
-
-
-
-   <td align="center"  width="140" height="112.43">
-        
-          <img src="jquery.png" width="48" height="48" alt="TypeScript" />
-        </a>
-        <br>JQuery
+         <td align="center"  width="140" height="112.43">
+            <img src="jquery.png" width="48" height="48" alt="TypeScript" />
+            </a>
+            <br>JQuery
       </td>
-     
-      
-   <tr>
+    <tr>
        <td align="center" width="140" height="112.43">
-        
-          <img src="./git.svg" width="48" height="48" alt="Git" />
-        </a>
-        <br>Git
+            <img src="./git.svg" width="48" height="48" alt="Git" />
+            </a>
+            <br>Git
       </td>
 
 
