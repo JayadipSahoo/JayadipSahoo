@@ -137,6 +137,27 @@
 img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
   </p>
   
-   <p align="center">
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  </p>
+  <h2 align="center">Repositories</h2>
+  
+  <div width="100%" align="center">
+     <a align="right" href="https://github.com/ThalesBMC/NFTMarketplace" title="NFT Marketplace"><img align="left"  height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFTMarketplace&theme=nightowl"></a>
+  
+  
+     <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
+   
+  </div>
+  <br/><br/>
+  <div width="100%" align="center">
+         <a align="left" href="https://github.com/ThalesBMC/Food-App-with-RN" title="Delivery App"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=Food-App-with-RN&theme=nightowl"></a>
+    <a align="right" href="https://github.com/ThalesBMC/NFT-Minter" title="NFT validator minter with Next.js"><img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFT-Minter&theme=nightowl"></a>
+  
+  </div>
+  <br/><br/>
+  <br/><br/><br/><br/><br/><br/>
+  <h4 align="center" marginTop="40px">
+    <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+   </h4>
+  
+   <a href="https://github.com/MacroPower/ThalesBMC" marginTop="40px">
+      <img src="https://komarev.com/ghpvc/?username=thalesbmc" alt="page views" />
+   </a>
