@@ -52,35 +52,25 @@
              </a>
             <br>Python
         </td>
-        
-   <td align="center"  width="140" height="112.43">
-       
-        <img src="ISO_C++_Logo.svg.png" width="48" height="48" alt="FStyled-components" />
-      </a>
-      <br>C++
-    </td>
-        
-   <td align="center"  width="140" height="112.43">
-        
-            <img src="C.png" width="48" height="48" alt="TypeScript" />
-          </a>
-          <br>Ansi C
-        </td>
         <td align="center"  width="140" height="112.43">
-        
-            <img src="Adobe_Photoshop_CC_icon.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-          <br>Adobe Photoshop
+            <img src="ISO_C++_Logo.svg.png" width="48" height="48" alt="FStyled-components" />
+            </a>
+            <br>C++
         </td>
-        
-          
-  </tr>   
+       <td align="center"  width="140" height="112.43">
+            <img src="C.png" width="48" height="48" alt="TypeScript" />
+            </a>
+            <br>Ansi C
+            </td>
+       <td align="center"  width="140" height="112.43">
+            <img src="Adobe_Photoshop_CC_icon.svg.png" width="48" height="48" alt="TypeScript" />
+            </a>
+            <br>Adobe Photoshop
+        </td>  
     </tr>
-    
-  </table>
+</table>
   </br>
-    
-  <table align= "center">
+<table align= "center">
     <td align="center"  width="240" height="112.43">
      <p  style="margin-top:12px">
     📫 You can reach me:
@@ -90,15 +80,12 @@
     </br>
     </br>
     <a href="mailto:jayadip360@gmail.com"><img src="./gmail.png" width="80"></a>
-  
-  </td>
+ </td>
   </table>
   <p align="center">
-     
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
   </p>
   <p align="center">
-   
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </p>
   
