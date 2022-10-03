@@ -29,45 +29,28 @@
             </a>
             <br>Git
       </td>
-
-
-
-   <td align="center"  width="140" height="112.43">
-        
-          <img src="CSS.png" width="48" height="48" alt="Next.js" />
+        <td align="center"  width="140" height="112.43">
+        <img src="CSS.png" width="48" height="48" alt="Next.js" />
         </a>
         <br>CSS
       </td>
       </br>
-
-
-   <td align="center"  width="140" height="112.43">
-        
-          <img src="HTML.png" width="48" height="48" alt="Firebase" />
+    <td align="center"  width="140" height="112.43">
+        <img src="HTML.png" width="48" height="48" alt="Firebase" />
         </a>
         <br>HTML
       </td>
-     
-   <td align="center"  width="140" height="112.43">
-        
+     <td align="center"  width="140" height="112.43">
         <img src="Bootstrap.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>BooTStrap
     </td>
-
-
-
-
-      
-   </tr>
-
-  <tr>
-
+</tr>
+    <tr>
         <td align="center"  width="140" height="112.43">
-        
             <img src="python.png" width="48" height="48" alt="TypeScript" />
-          </a>
-          <br>Python
+             </a>
+            <br>Python
         </td>
         
    <td align="center"  width="140" height="112.43">
