@@ -12,7 +12,7 @@
       </td>
 
 
-      <td align="center"  width="140" height="112.43">
+   <td align="center"  width="140" height="112.43">
      
           <img src="./react-original.svg" width="48" height="48" alt="React Native" />
         </a>
@@ -20,7 +20,7 @@
       </td>
 
 
-      <td align="center"  width="140" height="112.43">
+   <td align="center"  width="140" height="112.43">
         
           <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
         </a>
@@ -30,7 +30,7 @@
 
 
 
-      <td align="center"  width="140" height="112.43">
+   <td align="center"  width="140" height="112.43">
         
           <img src="jquery.png" width="48" height="48" alt="TypeScript" />
         </a>
@@ -38,7 +38,7 @@
       </td>
      
       
-      <tr>
+   <tr>
        <td align="center" width="140" height="112.43">
         
           <img src="./git.svg" width="48" height="48" alt="Git" />
@@ -48,7 +48,7 @@
 
 
 
-      <td align="center"  width="140" height="112.43">
+   <td align="center"  width="140" height="112.43">
         
           <img src="CSS.png" width="48" height="48" alt="Next.js" />
         </a>
@@ -57,14 +57,14 @@
       </br>
 
 
-      <td align="center"  width="140" height="112.43">
+   <td align="center"  width="140" height="112.43">
         
           <img src="HTML.png" width="48" height="48" alt="Firebase" />
         </a>
         <br>HTML
       </td>
      
-      <td align="center"  width="140" height="112.43">
+   <td align="center"  width="140" height="112.43">
         
         <img src="Bootstrap.png" width="48" height="48" alt="TypeScript" />
       </a>
@@ -75,9 +75,9 @@
 
 
       
-     </tr>
+   </tr>
 
-    <tr>
+  <tr>
 
         <td align="center"  width="140" height="112.43">
         
@@ -86,14 +86,14 @@
           <br>Python
         </td>
         
-      <td align="center"  width="140" height="112.43">
+   <td align="center"  width="140" height="112.43">
        
         <img src="ISO_C++_Logo.svg.png" width="48" height="48" alt="FStyled-components" />
       </a>
       <br>C++
     </td>
         
-        <td align="center"  width="140" height="112.43">
+   <td align="center"  width="140" height="112.43">
         
             <img src="C.png" width="48" height="48" alt="TypeScript" />
           </a>
@@ -107,7 +107,7 @@
         </td>
         
           
-     </tr>   
+  </tr>   
     </tr>
     
   </table>
