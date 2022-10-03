@@ -1,22 +1,17 @@
 
+
+
 <table align= "center">
     <tr>
-       
-       
-       
-        <td align="center" width="140" height="112.43">
-        
-          <img src="./react-original.svg" width="48" height="48" alt="React.js" />
-        </a>
-        <br>React.js
+       <td align="center" width="140" height="112.43">
+            <img src="./react-original.svg" width="48" height="48" alt="React.js" />
+            </a>
+        <   br>React.js
       </td>
-
-
-   <td align="center"  width="140" height="112.43">
-     
-          <img src="./react-original.svg" width="48" height="48" alt="React Native" />
-        </a>
-        <br>React Native
+        <td align="center"  width="140" height="112.43">
+            <img src="./react-original.svg" width="48" height="48" alt="React Native" />
+            </a>
+            <br>React Native
       </td>
 
 
@@ -102,7 +97,7 @@
         <td align="center"  width="140" height="112.43">
         
             <img src="Adobe_Photoshop_CC_icon.svg.png" width="48" height="48" alt="TypeScript" />
-          </a>
+      </a>
           <br>Adobe Photoshop
         </td>
         
